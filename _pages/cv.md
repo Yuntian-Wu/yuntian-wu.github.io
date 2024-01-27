@@ -12,11 +12,14 @@ redirect_from:
 # Education
 
 - Simon Fraser University
+
   Burnaby, Canada                             Sept. 2018 – Apr. 2023
-- Bachelor of Science in Data Science
+  Bachelor of Science in Data Science
+
 - New York University Tandon School of Engineering
+
   Brooklyn, United States                     Sept. 2023 – Present
-- Applied Urban Science and Informatics
+  Applied Urban Science and Informatics
 
 # Work experience
 
