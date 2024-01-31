@@ -84,7 +84,7 @@ author:
   location: "Location"
   employer:
   pubmed:
-  googlescholar: "http://yourfullgooglescholarurl.com"
+  googlescholar: #"http://yourfullgooglescholarurl.com"
   email: "yw7473@nyu.edu"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -100,14 +100,14 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "https://www.linkedin.com/in/yuntian-wu-149145224/"
+  linkedin: "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
   orcid:
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter: #"replacethistwitterhandle"
   vine:
   weibo:
   xing:
@@ -247,7 +247,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
